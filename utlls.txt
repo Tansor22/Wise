@@ -1,0 +1,3 @@
+C:\Windows\System32\scrnsave.scr - гаси кампутер там.
+
+https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview - tcp view light-weight nmap
